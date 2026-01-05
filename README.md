@@ -88,18 +88,19 @@ npm run start  # Start production server
 - Delete `.next` folder and run `npm run dev` again
 - Restart both servers
 
-## 📚 Full Documentation
-
-For detailed architecture, code explanations, and implementation details, see:
-**[PENJELASAN_PROJECT.txt](./PENJELASAN_PROJECT.txt)**
-
-Includes:
-- Complete architecture with diagrams
-- Message flow explanations
-- Function-by-function breakdown
-- WebSocket fundamentals
-- Testing & debugging guide
-
 ## 📄 License
 
 MIT
+
+## 👤 Profile
+
+**Ilham Abdul Hakim**  
+Front-end Developer with a strong focus on UI clarity, real-time interaction, and clean code structure.
+
+🌐 **Portfolio**  
+👉 https://ilhamabduldev.netlify.app/
+
+💰 **Expected Salary**  
+👉 **IDR 5,000,000**
+
+Dibuat dengan ❤️ untuk Bluesky Chat Test
