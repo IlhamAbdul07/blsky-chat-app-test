@@ -6,13 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "ws": "ts-node --project tsconfig.server.json server/ws-server.ts"
   },
   "dependencies": {
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "uuid": "^13.0.0",
     "ws": "^8.18.3"
   },
   "devDependencies": {
@@ -20,9 +20,11 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/ws": "^8.18.1",
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
     "tailwindcss": "^4",
+    "ts-node": "^10.9.2",
     "typescript": "^5"
   }
 }

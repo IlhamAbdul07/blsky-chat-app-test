@@ -1,8 +1,8 @@
 'use client';
 
 import { useEffect, useState, useCallback } from 'react';
-import ChatBox from '@/src/components/ChatBox';
-import { WebSocketClient, Message, WSMessage } from '@/src/lib/websocket';
+import ChatBox from '@/components/ChatBox';
+import { WebSocketClient, Message, WSMessage } from '@/lib/websocket';
 
 export default function Home() {
   const [messages, setMessages] = useState<Message[]>([]);
@@ -51,10 +51,10 @@ export default function Home() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-gray-800 mb-2">
-            💬 Andi & Yono Chat
+            💬 Bluesky Chat Test
           </h1>
           <p className="text-gray-600">
-            Simulasi 2 orang chatting real-time di satu halaman
+            Aplikasi chat real-time dengan WebSocket
           </p>
           <div className="mt-2 inline-flex items-center gap-2 px-4 py-2 bg-white rounded-full shadow-sm">
             <div className={`w-3 h-3 rounded-full ${isConnected ? 'bg-green-500' : 'bg-red-500'}`} />

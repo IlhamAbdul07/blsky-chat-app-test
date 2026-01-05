@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0b2d156e-e100-420f-9bfd-c7f18900a5b0",
+    "sender": "left",
+    "text": "Halo",
+    "timestamp": 1767598384288
+  },
+  {
+    "id": "3db85375-b1aa-4e53-a97d-9e53c9594a6d",
+    "sender": "right",
+    "text": "Hai",
+    "timestamp": 1767598399963
+  },
+  {
+    "id": "e7b6cdb8-5cc4-454c-af0c-3ab6f005299b",
+    "sender": "left",
+    "text": "p",
+    "timestamp": 1767599062436
+  },
+  {
+    "id": "8567236e-4573-42c3-930a-81422c4463bd",
+    "sender": "right",
+    "text": "andi",
+    "timestamp": 1767599082315
+  },
+  {
+    "id": "ad041258-56ba-4ca3-8eb3-1a62036ecd0f",
+    "sender": "left",
+    "text": "Hai",
+    "timestamp": 1767599367548
+  },
+  {
+    "id": "34f19bf4-7dbd-4ea9-a39d-eec2808b893a",
+    "sender": "right",
+    "text": "Hallow",
+    "timestamp": 1767599372585
+  }
+]
